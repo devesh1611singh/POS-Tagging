@@ -1,6 +1,6 @@
 Comparing two PSO taggers: 
-   -TnT from nltk 
-   -BiLSTM from Flair by Zolando Research Group).
+   1. TnT from nltk 
+   2. BiLSTM from Flair by Zolando Research Group).
 
 Dataset used, a mixture of:
  - TED talks
